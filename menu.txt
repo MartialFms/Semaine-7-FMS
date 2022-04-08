@@ -1,0 +1,22 @@
+******Resumé de la commande N°1 : ******
+salade
+boeuf
+frites
+soda
+tiramisu
+
+******Resumé de la commande N°2 : ******
+quiche
+poulet
+légumes
+eau plate
+mousse au chocolat
+
+******Resumé de la commande N°3 : ******
+soupe
+vegan
+pates
+null
+tiramisu
+
+
